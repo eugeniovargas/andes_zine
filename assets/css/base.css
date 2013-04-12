@@ -1,0 +1,23 @@
+html {
+	margin: 0;
+}
+body {
+	position: relative;
+	background: #FDFDFE;
+	-webkit-font-smoothing: antialiased;
+	font-size: 1.2em;
+  font-family: 'PT Serif', serif;
+	color: #333;
+  /* high-performance */
+  text-rendering: optimizeLegibility;
+  text-rendering: auto;
+}
+
+.title h3{
+  color: #9199A1;
+}
+
+.title p{
+  line-height: 1.65em;
+  color: #111111;
+}
