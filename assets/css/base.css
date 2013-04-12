@@ -21,3 +21,11 @@ body {
   line-height: 1.65em;
   color: #111111;
 }
+
+.img-box-shadow {
+  box-shadow: 0px 5px 30px 5px #999999;  
+}
+
+.img-shadow:hover {
+  box-shadow: 0px 0px 20px 5px #999999;  
+}
